@@ -21,6 +21,7 @@ a:hover {
     font-weight: 500;
     height: 8vh;
     margin-bottom: 1.5em;
+    background-color: #ffffff;
 }
 
 #logo {
@@ -165,6 +166,10 @@ a:hover {
         width: 220px;
         height: 2em;
         background-size: 16px 16px;
+    }
+
+    #nav {
+        margin-bottom: 10px;
     }
 }
 
@@ -343,7 +348,7 @@ a:hover {
     .restaurants li {
         width: 102px;
         height: 162px;
-        margin:0 5px;
+        margin: 0 5px;
         margin-bottom: 10px;
         padding: 3px;
     }

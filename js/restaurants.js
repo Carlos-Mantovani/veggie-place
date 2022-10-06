@@ -30,6 +30,11 @@ for (let i = 0; i < arr.length; i++) {
     const p = document.createElement('p');
     const rank = i + 1;
     let color = 0;
+    if (i > colors.length) {
+        color = colors[i - colors.length];
+    } else {
+        color = colors[i];
+    }
     img.classList.add('img');
     restaurant.style.backgroundColor = color;
     img.style.backgroundImage = `url(${arr[i].image})`;
