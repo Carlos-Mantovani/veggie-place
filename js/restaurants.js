@@ -37,7 +37,7 @@ for (let i = 0; i < arr.length; i++) {
     }
     img.classList.add('img');
     restaurant.style.backgroundColor = color;
-    img.style.backgroundImage = `url(${arr[i].image})`;
+    img.style.backgroundImage = 'url(' + arr[i].image +')';
     restaurant.appendChild(img);
     p.textContent = `${rank}º ${arr[i].name}`;
     restaurant.appendChild(p);
