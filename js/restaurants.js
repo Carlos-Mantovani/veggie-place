@@ -2,23 +2,23 @@ const restaurantList = document.querySelector('.restaurant-list');
 
 const arr = [{
     name: 'Restaurante vegano',
-    image: '../img/restaurants/1.jpg'
+    image: 'https://carlos-mantovani.github.io/veggie-place/img/restaurants/1.jpg'
 },
 {
     name: 'Restaurante vegano',
-    image: '../img/restaurants/2.png'
+    image: 'https://carlos-mantovani.github.io/veggie-place/img/restaurants/2.png'
 },
 {
     name: 'Restaurante vegano',
-    image: '../img/restaurants/3.jpg'
+    image: 'https://carlos-mantovani.github.io/veggie-place/img/restaurants/3.jpg'
 },
 {
     name: 'Restaurante vegano',
-    image: '../img/restaurants/1.jpg'
+    image: 'https://carlos-mantovani.github.io/veggie-place/img/restaurants/1.jpg'
 },
 {
     name: 'Restaurante vegano',
-    image: '../img/restaurants/2.png'
+    image: 'https://carlos-mantovani.github.io/veggie-place/img/restaurants/2.png'
 }
 ];
 
