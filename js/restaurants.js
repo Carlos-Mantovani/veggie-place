@@ -2,7 +2,7 @@ const restaurantList = document.querySelector('.restaurant-list');
 
 const arr = [{
     name: 'Restaurante vegano',
-    image: 'veggie-place/img/restaurants/1.jpg'
+    image: 'https://carlos-mantovani.github.io/veggie-place/img/restaurants/1.jpg'
 },
 {
     name: 'Restaurante vegano',
