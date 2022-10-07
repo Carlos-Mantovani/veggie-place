@@ -8,7 +8,7 @@ const products = [
 {
 	name: "Bebiba de caju 1L",
 	price: "23,90",
-	image: "../img/products/bebida-de-caju.jpg"
+	image: "https://github.com/Carlos-Mantovani/veggie-place/blob/master/img/products/bebida-de-caju.jpg"
 },
 {
 	name: "Máscara de Cílios Maxi 7ml",
